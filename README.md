@@ -64,14 +64,13 @@ The Iris dataset is built into the `sklearn.datasets` module and contains:
 ## 📝 How to Run
 
 ```bash
-python iris_analysis.py
+python iris_dataset_analysis.py
 ```
 
-Or open the `.ipynb` file in Jupyter Notebook for an interactive experience.
 
 ---
 
 ## 📎 Submission Includes
 
-- `iris_analysis.py`: Main Python script
+- `iris_dataset_analysis.py`: Main Python script
 - `README.md`: Project documentation
